@@ -1,0 +1,182 @@
+{
+ "currency": "руб.",
+ "products": [
+  {
+   "id": "prints",
+   "kind": "print",
+   "name": "Фотопечать",
+   "from_price": 0.65,
+   "old_price": 1.3,
+   "color": "#d9542e",
+   "text": "Отпечатки на фотобумаге",
+   "lead": "1–2 дня",
+   "req": "JPEG/PNG, от 800 px по длинной стороне",
+   "formats": [
+    {
+     "id": "10x15",
+     "name": "10×15 см",
+     "mult": 1.0
+    },
+    {
+     "id": "13x18",
+     "name": "13×18 см",
+     "mult": 2.6
+    },
+    {
+     "id": "15x21",
+     "name": "15×21 см",
+     "mult": 3.8
+    }
+   ],
+   "papers": [
+    {
+     "id": "matte",
+     "name": "Матовая"
+    },
+    {
+     "id": "gloss",
+     "name": "Глянцевая"
+    }
+   ]
+  },
+  {
+   "id": "classic",
+   "kind": "book",
+   "name": "Фотокниги Classic",
+   "from_price": 72.9,
+   "old_price": 81.0,
+   "color": "#a9c7dd",
+   "text": "Классическая фотокнига",
+   "lead": "5–7 дней",
+   "req": "JPEG/PNG, от 1200 px по длинной стороне",
+   "per_spread": 3.0,
+   "min_spreads": 5
+  },
+  {
+   "id": "premium",
+   "kind": "book",
+   "name": "Фотокниги Premium",
+   "from_price": 70.35,
+   "old_price": 100.5,
+   "color": "#9a3b1e",
+   "text": "Разворот 28×20 см, лежит ровно",
+   "lead": "5–7 дней",
+   "req": "JPEG/PNG, от 1200 px по длинной стороне",
+   "per_spread": 3.0,
+   "min_spreads": 5
+  },
+  {
+   "id": "digital",
+   "kind": "print",
+   "name": "Цифровая фотопечать",
+   "from_price": 0.49,
+   "old_price": 0.61,
+   "color": "#a39a4d",
+   "text": "Быстрая печать цифровых фото",
+   "lead": "1 день",
+   "req": "JPEG/PNG, от 800 px по длинной стороне",
+   "formats": [
+    {
+     "id": "10x15",
+     "name": "10×15 см",
+     "mult": 1.0
+    },
+    {
+     "id": "13x18",
+     "name": "13×18 см",
+     "mult": 2.6
+    }
+   ],
+   "papers": [
+    {
+     "id": "matte",
+     "name": "Матовая"
+    },
+    {
+     "id": "gloss",
+     "name": "Глянцевая"
+    }
+   ]
+  },
+  {
+   "id": "lite",
+   "kind": "book",
+   "name": "Фотокниги Lite",
+   "from_price": 56.0,
+   "old_price": 70.0,
+   "color": "#fbd277",
+   "text": "Лёгкая и недорогая фотокнига",
+   "lead": "4–6 дней",
+   "req": "JPEG/PNG, от 1200 px по длинной стороне",
+   "per_spread": 2.0,
+   "min_spreads": 5
+  }
+ ],
+ "covers": [
+  {
+   "id": "hard",
+   "name": "Твёрдая обложка",
+   "add": 0.0
+  },
+  {
+   "id": "soft",
+   "name": "Мягкая обложка",
+   "add": -8.0
+  }
+ ],
+ "delivery": [
+  {
+   "id": "pickup",
+   "name": "Самовывоз из пункта picPac",
+   "price": 0.0,
+   "eta": "3–5 дней",
+   "address": false
+  },
+  {
+   "id": "post",
+   "name": "Европочта (отделение)",
+   "price": 5.5,
+   "eta": "4–7 дней",
+   "address": true
+  },
+  {
+   "id": "courier",
+   "name": "Курьер до двери",
+   "price": 9.0,
+   "eta": "3–5 дней",
+   "address": true
+  }
+ ],
+ "payment": [
+  {
+   "id": "online",
+   "name": "Картой онлайн (демо)"
+  },
+  {
+   "id": "cod",
+   "name": "При получении"
+  }
+ ],
+ "promos": [
+  {
+   "code": "PICPAC10",
+   "text": "−10% на товары",
+   "percent": 10,
+   "free_delivery": false
+  },
+  {
+   "code": "FREESHIP",
+   "text": "бесплатная доставка",
+   "percent": 0,
+   "free_delivery": true
+  }
+ ],
+ "limits": {
+  "max_file_mb": 25,
+  "max_photos": 200,
+  "formats": [
+   "JPEG",
+   "PNG"
+  ]
+ }
+}

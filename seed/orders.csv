@@ -1,0 +1,601 @@
+order_id,customer,product,qty,unit_price,sum,currency,delivery,channel,status,created_at,on_time,defect
+PP-000001,C0044,classic,1,85.9,85.9,BYN,post,мобильное приложение,accepted,2026-10-17T22:10:40+0300,True,False
+PP-000002,C0094,digital,50,0.49,24.5,BYN,courier,сайт,transit,2026-09-29T21:00:45+0300,True,False
+PP-000003,C0025,premium,1,115.35,115.35,BYN,pickup,пункт приёма,binding,2026-11-10T07:23:51+0300,True,True
+PP-000004,C0214,lite,1,86.0,86.0,BYN,pickup,мобильное приложение,printing,2026-08-19T16:06:36+0300,True,False
+PP-000005,C0220,classic,1,117.9,117.9,BYN,post,пункт приёма,printing,2026-08-21T14:30:05+0300,True,False
+PP-000006,C0194,digital,50,0.49,24.5,BYN,pickup,сайт,qc,2026-10-04T19:48:18+0300,True,False
+PP-000007,C0231,classic,1,81.9,81.9,BYN,pickup,соцсети,accepted,2026-08-19T13:59:25+0300,True,False
+PP-000008,C0134,premium,1,107.35,107.35,BYN,post,соцсети,binding,2026-11-09T22:16:40+0300,True,False
+PP-000009,C0097,classic,1,81.9,81.9,BYN,post,сайт,done,2026-09-03T01:36:54+0300,True,False
+PP-000010,C0211,prints,50,0.65,32.5,BYN,courier,сайт,binding,2026-07-28T17:39:11+0300,True,False
+PP-000011,C0205,prints,10,0.65,6.5,BYN,courier,соцсети,transit,2026-08-28T18:40:12+0300,True,False
+PP-000012,C0044,premium,1,70.35,70.35,BYN,pickup,пункт приёма,accepted,2026-08-27T16:33:19+0300,True,False
+PP-000013,C0062,prints,10,0.65,6.5,BYN,post,пункт приёма,transit,2026-09-13T03:46:32+0300,True,False
+PP-000014,C0153,lite,1,48.0,48.0,BYN,pickup,мобильное приложение,transit,2026-08-08T19:57:37+0300,True,False
+PP-000015,C0099,digital,50,0.49,24.5,BYN,pickup,сайт,done,2026-08-06T21:21:10+0300,True,False
+PP-000016,C0149,classic,3,85.9,257.7,BYN,courier,сайт,qc,2026-08-19T22:44:21+0300,True,False
+PP-000017,C0142,lite,1,54.0,54.0,BYN,pickup,мобильное приложение,transit,2026-07-20T21:04:02+0300,True,False
+PP-000018,C0014,prints,50,0.65,32.5,BYN,pickup,пункт приёма,ai_check,2026-09-25T08:03:28+0300,True,False
+PP-000019,C0216,prints,30,0.65,19.5,BYN,courier,сайт,transit,2026-09-30T08:07:26+0300,True,False
+PP-000020,C0024,digital,10,0.49,4.9,BYN,post,мобильное приложение,paid,2026-11-02T15:32:55+0300,True,True
+PP-000021,C0187,lite,1,62.0,62.0,BYN,courier,мобильное приложение,done,2026-10-28T22:19:00+0300,True,False
+PP-000022,C0101,classic,2,93.9,187.8,BYN,courier,соцсети,paid,2026-09-28T10:43:03+0300,True,True
+PP-000023,C0043,digital,10,0.49,4.9,BYN,pickup,мобильное приложение,done,2026-10-09T11:03:52+0300,True,False
+PP-000024,C0192,classic,2,72.9,145.8,BYN,pickup,мобильное приложение,done,2026-09-05T21:57:19+0300,True,False
+PP-000025,C0030,digital,20,0.49,9.8,BYN,courier,мобильное приложение,accepted,2026-08-07T15:53:15+0300,True,False
+PP-000026,C0175,digital,50,0.49,24.5,BYN,courier,сайт,binding,2026-10-26T14:48:44+0300,True,False
+PP-000027,C0008,classic,1,93.9,93.9,BYN,pickup,пункт приёма,ai_check,2026-07-31T14:50:35+0300,True,False
+PP-000028,C0033,classic,2,117.9,235.8,BYN,pickup,сайт,done,2026-10-20T19:24:28+0300,True,False
+PP-000029,C0163,premium,1,83.35,83.35,BYN,post,сайт,transit,2026-10-13T12:58:06+0300,True,False
+PP-000030,C0197,premium,2,115.35,230.7,BYN,post,соцсети,binding,2026-09-19T15:03:43+0300,True,False
+PP-000031,C0157,digital,50,0.49,24.5,BYN,pickup,сайт,printing,2026-10-10T03:00:21+0300,True,False
+PP-000032,C0099,digital,20,0.49,9.8,BYN,pickup,мобильное приложение,qc,2026-10-23T01:35:46+0300,True,False
+PP-000033,C0222,lite,3,78.0,234.0,BYN,post,соцсети,printing,2026-09-21T13:55:34+0300,True,False
+PP-000034,C0149,lite,1,54.0,54.0,BYN,courier,мобильное приложение,transit,2026-08-20T04:19:55+0300,True,False
+PP-000035,C0215,prints,30,0.65,19.5,BYN,post,соцсети,printing,2026-07-25T16:36:36+0300,True,False
+PP-000036,C0135,lite,3,62.0,186.0,BYN,post,мобильное приложение,accepted,2026-09-04T16:09:44+0300,True,False
+PP-000037,C0222,lite,1,86.0,86.0,BYN,courier,сайт,paid,2026-09-03T14:30:31+0300,True,False
+PP-000038,C0049,lite,2,54.0,108.0,BYN,courier,пункт приёма,accepted,2026-08-19T05:19:07+0300,True,False
+PP-000039,C0089,prints,20,0.65,13.0,BYN,courier,сайт,handoff,2026-08-14T23:10:40+0300,True,False
+PP-000040,C0161,prints,10,0.65,6.5,BYN,post,соцсети,paid,2026-10-13T12:25:42+0300,True,False
+PP-000041,C0032,classic,3,85.9,257.7,BYN,pickup,сайт,qc,2026-07-19T08:20:02+0300,True,False
+PP-000042,C0119,prints,50,0.65,32.5,BYN,courier,соцсети,paid,2026-11-07T18:40:58+0300,True,False
+PP-000043,C0110,digital,30,0.49,14.7,BYN,pickup,сайт,binding,2026-08-24T14:51:13+0300,True,False
+PP-000044,C0155,digital,10,0.49,4.9,BYN,pickup,пункт приёма,binding,2026-11-09T15:32:33+0300,True,False
+PP-000045,C0022,prints,20,0.65,13.0,BYN,courier,пункт приёма,qc,2026-08-24T01:37:22+0300,True,False
+PP-000046,C0065,lite,1,62.0,62.0,BYN,post,сайт,done,2026-08-01T08:00:02+0300,True,False
+PP-000047,C0042,premium,2,71.35,142.7,BYN,post,пункт приёма,done,2026-07-20T02:24:16+0300,True,False
+PP-000048,C0087,prints,20,0.65,13.0,BYN,courier,пункт приёма,paid,2026-07-18T02:23:43+0300,True,False
+PP-000049,C0194,digital,50,0.49,24.5,BYN,post,соцсети,qc,2026-08-31T10:04:31+0300,True,False
+PP-000050,C0093,premium,2,83.35,166.7,BYN,pickup,соцсети,transit,2026-08-10T14:36:00+0300,False,True
+PP-000051,C0067,premium,3,70.35,211.05,BYN,post,соцсети,binding,2026-09-08T12:44:22+0300,True,False
+PP-000052,C0059,premium,1,79.35,79.35,BYN,pickup,мобильное приложение,accepted,2026-10-31T13:53:29+0300,True,False
+PP-000053,C0133,lite,3,48.0,144.0,BYN,courier,сайт,binding,2026-07-15T20:04:09+0300,True,False
+PP-000054,C0224,classic,1,72.9,72.9,BYN,courier,соцсети,accepted,2026-10-28T19:54:58+0300,True,False
+PP-000055,C0174,lite,1,78.0,78.0,BYN,courier,соцсети,printing,2026-08-31T17:38:06+0300,True,False
+PP-000056,C0117,classic,1,117.9,117.9,BYN,pickup,соцсети,transit,2026-11-02T07:06:49+0300,True,False
+PP-000057,C0070,prints,30,0.65,19.5,BYN,pickup,соцсети,done,2026-08-20T07:51:47+0300,True,False
+PP-000058,C0099,classic,1,72.9,72.9,BYN,post,сайт,qc,2026-10-05T05:42:07+0300,True,False
+PP-000059,C0050,prints,30,0.65,19.5,BYN,pickup,пункт приёма,binding,2026-07-27T12:00:17+0300,True,False
+PP-000060,C0202,prints,10,0.65,6.5,BYN,post,мобильное приложение,ai_check,2026-07-26T09:05:25+0300,True,False
+PP-000061,C0049,prints,50,0.65,32.5,BYN,pickup,мобильное приложение,qc,2026-09-02T06:15:17+0300,True,False
+PP-000062,C0217,lite,1,48.0,48.0,BYN,post,мобильное приложение,binding,2026-07-26T22:17:56+0300,True,False
+PP-000063,C0027,premium,1,107.35,107.35,BYN,courier,мобильное приложение,binding,2026-08-27T13:00:27+0300,True,False
+PP-000064,C0034,digital,10,0.49,4.9,BYN,post,сайт,paid,2026-09-17T15:21:23+0300,True,False
+PP-000065,C0008,classic,1,72.9,72.9,BYN,pickup,пункт приёма,paid,2026-09-11T13:52:06+0300,True,False
+PP-000066,C0148,digital,30,0.49,14.7,BYN,courier,соцсети,transit,2026-09-03T06:42:17+0300,True,False
+PP-000067,C0135,premium,1,91.35,91.35,BYN,courier,пункт приёма,handoff,2026-07-27T00:55:13+0300,True,False
+PP-000068,C0121,prints,50,0.65,32.5,BYN,pickup,мобильное приложение,transit,2026-07-18T13:54:40+0300,True,False
+PP-000069,C0058,premium,1,62.35,62.35,BYN,post,мобильное приложение,binding,2026-09-25T14:24:40+0300,True,False
+PP-000070,C0101,prints,10,0.65,6.5,BYN,pickup,мобильное приложение,printing,2026-09-04T14:19:09+0300,True,False
+PP-000071,C0111,premium,2,107.35,214.7,BYN,courier,мобильное приложение,paid,2026-08-19T02:12:52+0300,True,False
+PP-000072,C0062,classic,3,85.9,257.7,BYN,courier,пункт приёма,done,2026-09-11T03:47:44+0300,True,False
+PP-000073,C0185,premium,1,115.35,115.35,BYN,pickup,мобильное приложение,binding,2026-10-08T15:18:58+0300,True,False
+PP-000074,C0012,digital,10,0.49,4.9,BYN,courier,пункт приёма,transit,2026-10-24T22:55:56+0300,True,False
+PP-000075,C0179,digital,50,0.49,24.5,BYN,pickup,пункт приёма,paid,2026-10-25T00:11:24+0300,True,False
+PP-000076,C0158,classic,1,85.9,85.9,BYN,post,пункт приёма,accepted,2026-09-28T22:00:47+0300,True,False
+PP-000077,C0193,lite,1,62.0,62.0,BYN,courier,сайт,done,2026-08-14T11:48:25+0300,True,False
+PP-000078,C0095,digital,10,0.49,4.9,BYN,courier,соцсети,done,2026-10-24T17:58:50+0300,True,False
+PP-000079,C0081,prints,10,0.65,6.5,BYN,courier,мобильное приложение,accepted,2026-11-03T10:34:42+0300,False,False
+PP-000080,C0040,prints,10,0.65,6.5,BYN,courier,соцсети,printing,2026-10-04T04:24:14+0300,True,False
+PP-000081,C0129,digital,10,0.49,4.9,BYN,courier,соцсети,transit,2026-09-12T05:38:20+0300,True,False
+PP-000082,C0103,prints,50,0.65,32.5,BYN,post,мобильное приложение,qc,2026-10-22T08:44:25+0300,True,True
+PP-000083,C0002,prints,20,0.65,13.0,BYN,post,мобильное приложение,accepted,2026-11-02T02:38:26+0300,True,False
+PP-000084,C0026,digital,20,0.49,9.8,BYN,post,пункт приёма,qc,2026-08-20T02:39:41+0300,True,False
+PP-000085,C0131,prints,10,0.65,6.5,BYN,pickup,сайт,ai_check,2026-08-18T06:15:23+0300,True,False
+PP-000086,C0185,digital,50,0.49,24.5,BYN,courier,мобильное приложение,ai_check,2026-08-06T21:41:36+0300,True,False
+PP-000087,C0125,prints,20,0.65,13.0,BYN,pickup,сайт,done,2026-10-30T20:26:49+0300,True,False
+PP-000088,C0171,prints,20,0.65,13.0,BYN,pickup,соцсети,transit,2026-08-08T19:57:27+0300,True,False
+PP-000089,C0209,lite,1,86.0,86.0,BYN,pickup,пункт приёма,paid,2026-08-27T00:34:25+0300,True,False
+PP-000090,C0141,lite,1,78.0,78.0,BYN,post,сайт,ai_check,2026-10-04T17:27:45+0300,True,False
+PP-000091,C0207,classic,2,73.9,147.8,BYN,post,мобильное приложение,done,2026-08-24T19:16:11+0300,True,False
+PP-000092,C0162,lite,1,62.0,62.0,BYN,pickup,мобильное приложение,accepted,2026-09-12T13:22:04+0300,True,False
+PP-000093,C0205,classic,3,117.9,353.7,BYN,courier,пункт приёма,accepted,2026-11-06T21:00:00+0300,True,False
+PP-000094,C0031,prints,50,0.65,32.5,BYN,post,соцсети,done,2026-10-19T01:25:57+0300,False,False
+PP-000095,C0094,classic,1,73.9,73.9,BYN,courier,соцсети,printing,2026-08-29T04:36:51+0300,True,False
+PP-000096,C0025,classic,2,64.9,129.8,BYN,pickup,соцсети,paid,2026-08-04T11:32:51+0300,True,False
+PP-000097,C0043,premium,2,115.35,230.7,BYN,pickup,мобильное приложение,printing,2026-11-03T15:34:16+0300,True,False
+PP-000098,C0033,lite,2,54.0,108.0,BYN,pickup,соцсети,binding,2026-09-22T06:16:01+0300,True,False
+PP-000099,C0014,premium,1,79.35,79.35,BYN,pickup,сайт,handoff,2026-09-02T12:00:05+0300,True,False
+PP-000100,C0196,digital,10,0.49,4.9,BYN,pickup,пункт приёма,printing,2026-10-18T17:05:33+0300,True,False
+PP-000101,C0168,digital,30,0.49,14.7,BYN,courier,соцсети,done,2026-07-19T08:00:36+0300,False,False
+PP-000102,C0050,premium,1,115.35,115.35,BYN,pickup,сайт,ai_check,2026-10-27T23:20:12+0300,True,True
+PP-000103,C0031,prints,30,0.65,19.5,BYN,courier,сайт,binding,2026-09-01T08:12:09+0300,True,False
+PP-000104,C0005,premium,1,91.35,91.35,BYN,courier,мобильное приложение,printing,2026-10-20T06:04:52+0300,True,False
+PP-000105,C0034,prints,20,0.65,13.0,BYN,courier,мобильное приложение,ai_check,2026-10-20T16:08:31+0300,True,False
+PP-000106,C0125,lite,2,86.0,172.0,BYN,post,соцсети,accepted,2026-07-31T09:50:06+0300,True,True
+PP-000107,C0084,premium,1,107.35,107.35,BYN,courier,пункт приёма,ai_check,2026-08-02T21:05:24+0300,True,False
+PP-000108,C0227,digital,30,0.49,14.7,BYN,courier,соцсети,binding,2026-07-15T12:29:05+0300,True,False
+PP-000109,C0058,digital,50,0.49,24.5,BYN,pickup,мобильное приложение,handoff,2026-08-13T02:07:45+0300,True,False
+PP-000110,C0003,premium,1,107.35,107.35,BYN,post,соцсети,accepted,2026-09-01T23:56:28+0300,True,False
+PP-000111,C0100,classic,1,117.9,117.9,BYN,pickup,соцсети,transit,2026-07-17T22:58:21+0300,True,False
+PP-000112,C0213,lite,2,62.0,124.0,BYN,post,пункт приёма,accepted,2026-09-17T04:15:12+0300,True,False
+PP-000113,C0100,prints,30,0.65,19.5,BYN,post,сайт,transit,2026-10-18T00:34:53+0300,True,False
+PP-000114,C0015,digital,30,0.49,14.7,BYN,courier,соцсети,done,2026-09-14T03:00:37+0300,True,False
+PP-000115,C0149,classic,3,73.9,221.7,BYN,pickup,соцсети,handoff,2026-10-07T16:33:28+0300,True,False
+PP-000116,C0200,lite,2,56.0,112.0,BYN,pickup,соцсети,handoff,2026-11-10T11:24:41+0300,True,True
+PP-000117,C0023,lite,1,56.0,56.0,BYN,pickup,соцсети,ai_check,2026-08-07T23:59:18+0300,True,False
+PP-000118,C0098,premium,1,71.35,71.35,BYN,courier,мобильное приложение,binding,2026-11-01T20:06:00+0300,True,False
+PP-000119,C0054,digital,50,0.49,24.5,BYN,post,мобильное приложение,printing,2026-08-29T00:47:00+0300,True,False
+PP-000120,C0179,digital,50,0.49,24.5,BYN,pickup,пункт приёма,printing,2026-09-17T03:20:52+0300,True,False
+PP-000121,C0165,premium,1,107.35,107.35,BYN,pickup,пункт приёма,ai_check,2026-08-18T11:45:35+0300,False,False
+PP-000122,C0033,lite,1,62.0,62.0,BYN,pickup,соцсети,handoff,2026-10-10T02:16:53+0300,True,False
+PP-000123,C0049,classic,1,64.9,64.9,BYN,courier,сайт,ai_check,2026-09-30T01:13:48+0300,True,False
+PP-000124,C0192,digital,10,0.49,4.9,BYN,courier,пункт приёма,ai_check,2026-10-18T02:35:25+0300,True,False
+PP-000125,C0146,premium,1,107.35,107.35,BYN,post,мобильное приложение,transit,2026-09-10T09:50:00+0300,True,False
+PP-000126,C0182,classic,1,73.9,73.9,BYN,pickup,соцсети,binding,2026-08-20T07:13:35+0300,True,False
+PP-000127,C0106,prints,10,0.65,6.5,BYN,post,сайт,handoff,2026-07-15T22:58:43+0300,True,False
+PP-000128,C0162,lite,1,48.0,48.0,BYN,post,пункт приёма,done,2026-11-06T08:20:34+0300,True,False
+PP-000129,C0017,lite,1,56.0,56.0,BYN,pickup,пункт приёма,handoff,2026-10-02T13:43:55+0300,False,False
+PP-000130,C0213,prints,20,0.65,13.0,BYN,post,соцсети,paid,2026-07-16T12:02:02+0300,True,True
+PP-000131,C0097,prints,10,0.65,6.5,BYN,post,сайт,qc,2026-09-21T17:00:29+0300,True,False
+PP-000132,C0172,digital,30,0.49,14.7,BYN,pickup,мобильное приложение,qc,2026-10-29T08:42:31+0300,True,False
+PP-000133,C0155,prints,20,0.65,13.0,BYN,courier,пункт приёма,printing,2026-09-17T17:42:55+0300,True,False
+PP-000134,C0098,classic,1,73.9,73.9,BYN,courier,соцсети,qc,2026-09-30T22:22:34+0300,True,False
+PP-000135,C0078,lite,1,54.0,54.0,BYN,post,пункт приёма,done,2026-09-20T14:40:47+0300,False,False
+PP-000136,C0134,lite,3,86.0,258.0,BYN,post,пункт приёма,handoff,2026-09-01T01:36:27+0300,True,False
+PP-000137,C0134,premium,1,83.35,83.35,BYN,pickup,соцсети,printing,2026-08-19T07:34:28+0300,True,False
+PP-000138,C0006,digital,10,0.49,4.9,BYN,post,соцсети,binding,2026-08-07T16:37:39+0300,True,False
+PP-000139,C0020,lite,3,70.0,210.0,BYN,pickup,соцсети,paid,2026-10-02T04:21:48+0300,True,False
+PP-000140,C0099,prints,50,0.65,32.5,BYN,post,мобильное приложение,done,2026-08-16T04:15:09+0300,True,False
+PP-000141,C0134,lite,1,70.0,70.0,BYN,pickup,соцсети,paid,2026-09-20T00:41:27+0300,True,False
+PP-000142,C0027,premium,1,83.35,83.35,BYN,pickup,пункт приёма,printing,2026-08-21T14:16:07+0300,True,False
+PP-000143,C0187,premium,1,62.35,62.35,BYN,pickup,соцсети,qc,2026-08-04T12:28:17+0300,True,False
+PP-000144,C0020,digital,20,0.49,9.8,BYN,post,мобильное приложение,ai_check,2026-08-26T04:29:14+0300,True,False
+PP-000145,C0086,prints,20,0.65,13.0,BYN,courier,сайт,ai_check,2026-10-17T20:38:50+0300,True,False
+PP-000146,C0132,digital,50,0.49,24.5,BYN,courier,соцсети,done,2026-08-30T05:22:46+0300,True,False
+PP-000147,C0089,digital,10,0.49,4.9,BYN,courier,пункт приёма,transit,2026-07-29T17:22:08+0300,True,False
+PP-000148,C0016,premium,1,71.35,71.35,BYN,post,соцсети,done,2026-08-23T23:29:46+0300,True,False
+PP-000149,C0116,classic,1,109.9,109.9,BYN,post,пункт приёма,done,2026-10-29T15:58:15+0300,True,False
+PP-000150,C0146,premium,1,79.35,79.35,BYN,pickup,сайт,transit,2026-11-09T05:43:10+0300,True,False
+PP-000151,C0081,prints,20,0.65,13.0,BYN,pickup,сайт,transit,2026-09-06T14:36:40+0300,True,False
+PP-000152,C0008,premium,1,107.35,107.35,BYN,pickup,сайт,handoff,2026-07-20T19:57:34+0300,True,False
+PP-000153,C0124,lite,1,62.0,62.0,BYN,pickup,пункт приёма,qc,2026-08-17T04:27:12+0300,True,False
+PP-000154,C0148,premium,1,62.35,62.35,BYN,post,мобильное приложение,transit,2026-10-19T17:56:39+0300,True,False
+PP-000155,C0079,digital,50,0.49,24.5,BYN,pickup,соцсети,printing,2026-08-09T23:48:24+0300,True,False
+PP-000156,C0058,premium,1,115.35,115.35,BYN,pickup,мобильное приложение,transit,2026-08-10T19:46:35+0300,True,False
+PP-000157,C0072,prints,30,0.65,19.5,BYN,post,мобильное приложение,done,2026-07-23T19:54:34+0300,True,False
+PP-000158,C0148,classic,1,73.9,73.9,BYN,post,сайт,done,2026-10-04T13:13:31+0300,True,False
+PP-000159,C0224,lite,1,62.0,62.0,BYN,post,пункт приёма,paid,2026-08-11T14:59:09+0300,True,False
+PP-000160,C0035,lite,2,54.0,108.0,BYN,pickup,пункт приёма,ai_check,2026-08-12T05:53:08+0300,False,False
+PP-000161,C0211,premium,1,83.35,83.35,BYN,pickup,соцсети,ai_check,2026-10-29T07:24:01+0300,True,False
+PP-000162,C0046,premium,3,91.35,274.05,BYN,pickup,соцсети,paid,2026-07-15T21:46:31+0300,False,False
+PP-000163,C0110,classic,3,85.9,257.7,BYN,post,сайт,qc,2026-07-22T01:59:49+0300,True,False
+PP-000164,C0018,lite,1,56.0,56.0,BYN,post,пункт приёма,handoff,2026-11-04T18:15:14+0300,True,False
+PP-000165,C0134,premium,2,79.35,158.7,BYN,post,мобильное приложение,accepted,2026-10-02T20:48:40+0300,True,False
+PP-000166,C0134,digital,30,0.49,14.7,BYN,courier,мобильное приложение,printing,2026-08-02T21:54:08+0300,True,False
+PP-000167,C0233,classic,1,64.9,64.9,BYN,pickup,мобильное приложение,ai_check,2026-08-21T07:22:45+0300,True,False
+PP-000168,C0128,classic,1,73.9,73.9,BYN,post,пункт приёма,binding,2026-09-21T14:43:22+0300,True,False
+PP-000169,C0153,lite,1,54.0,54.0,BYN,pickup,сайт,transit,2026-07-16T13:45:52+0300,False,False
+PP-000170,C0168,digital,10,0.49,4.9,BYN,pickup,мобильное приложение,transit,2026-10-01T16:20:36+0300,True,False
+PP-000171,C0014,digital,10,0.49,4.9,BYN,post,пункт приёма,paid,2026-08-02T10:58:13+0300,True,False
+PP-000172,C0088,lite,1,78.0,78.0,BYN,pickup,мобильное приложение,done,2026-10-20T15:12:53+0300,True,False
+PP-000173,C0187,premium,2,71.35,142.7,BYN,pickup,соцсети,printing,2026-08-15T14:12:54+0300,False,True
+PP-000174,C0034,prints,50,0.65,32.5,BYN,pickup,соцсети,binding,2026-08-13T01:49:02+0300,True,False
+PP-000175,C0069,digital,30,0.49,14.7,BYN,pickup,мобильное приложение,paid,2026-07-27T16:27:48+0300,False,False
+PP-000176,C0176,prints,50,0.65,32.5,BYN,post,мобильное приложение,ai_check,2026-10-25T11:23:27+0300,True,False
+PP-000177,C0103,premium,1,115.35,115.35,BYN,post,соцсети,qc,2026-09-07T01:17:13+0300,True,False
+PP-000178,C0190,digital,10,0.49,4.9,BYN,courier,пункт приёма,done,2026-08-01T20:35:23+0300,True,False
+PP-000179,C0010,lite,1,56.0,56.0,BYN,post,сайт,printing,2026-08-17T00:03:17+0300,True,False
+PP-000180,C0153,digital,10,0.49,4.9,BYN,post,соцсети,transit,2026-10-19T14:55:46+0300,True,False
+PP-000181,C0130,premium,2,71.35,142.7,BYN,post,сайт,transit,2026-08-06T19:59:33+0300,True,False
+PP-000182,C0081,prints,20,0.65,13.0,BYN,post,соцсети,handoff,2026-10-05T15:40:57+0300,False,False
+PP-000183,C0118,lite,1,62.0,62.0,BYN,courier,пункт приёма,paid,2026-09-20T23:47:08+0300,True,False
+PP-000184,C0196,digital,20,0.49,9.8,BYN,post,мобильное приложение,handoff,2026-08-14T17:31:28+0300,True,False
+PP-000185,C0144,classic,1,85.9,85.9,BYN,pickup,сайт,paid,2026-08-27T04:22:55+0300,True,False
+PP-000186,C0232,classic,1,117.9,117.9,BYN,pickup,сайт,qc,2026-07-30T18:34:59+0300,True,False
+PP-000187,C0027,premium,3,91.35,274.05,BYN,pickup,соцсети,done,2026-09-30T15:51:24+0300,True,False
+PP-000188,C0108,premium,1,70.35,70.35,BYN,pickup,соцсети,qc,2026-08-15T13:24:28+0300,True,False
+PP-000189,C0174,digital,20,0.49,9.8,BYN,courier,соцсети,qc,2026-09-10T02:55:07+0300,True,False
+PP-000190,C0036,digital,20,0.49,9.8,BYN,pickup,сайт,ai_check,2026-11-01T17:26:31+0300,True,False
+PP-000191,C0110,digital,50,0.49,24.5,BYN,courier,соцсети,handoff,2026-08-17T00:42:18+0300,True,False
+PP-000192,C0140,digital,50,0.49,24.5,BYN,post,сайт,done,2026-08-20T10:07:41+0300,True,False
+PP-000193,C0097,prints,20,0.65,13.0,BYN,courier,мобильное приложение,ai_check,2026-09-16T13:43:59+0300,True,False
+PP-000194,C0200,lite,1,70.0,70.0,BYN,pickup,пункт приёма,done,2026-08-17T02:58:15+0300,False,False
+PP-000195,C0056,classic,2,85.9,171.8,BYN,post,соцсети,binding,2026-11-04T19:48:07+0300,True,False
+PP-000196,C0112,premium,1,115.35,115.35,BYN,post,мобильное приложение,done,2026-11-02T16:35:32+0300,True,False
+PP-000197,C0136,premium,1,91.35,91.35,BYN,pickup,соцсети,handoff,2026-08-12T06:58:00+0300,True,False
+PP-000198,C0148,digital,30,0.49,14.7,BYN,courier,соцсети,paid,2026-07-18T16:33:16+0300,True,False
+PP-000199,C0030,classic,2,93.9,187.8,BYN,pickup,соцсети,accepted,2026-07-24T16:48:42+0300,True,False
+PP-000200,C0216,digital,30,0.49,14.7,BYN,courier,мобильное приложение,done,2026-07-23T12:17:16+0300,True,False
+PP-000201,C0088,premium,1,79.35,79.35,BYN,courier,сайт,binding,2026-10-10T19:39:31+0300,True,False
+PP-000202,C0074,prints,50,0.65,32.5,BYN,pickup,мобильное приложение,done,2026-09-20T03:24:43+0300,True,False
+PP-000203,C0238,prints,50,0.65,32.5,BYN,courier,сайт,handoff,2026-08-28T23:16:31+0300,True,False
+PP-000204,C0209,prints,30,0.65,19.5,BYN,post,мобильное приложение,binding,2026-09-26T23:34:56+0300,True,False
+PP-000205,C0223,classic,1,93.9,93.9,BYN,pickup,соцсети,transit,2026-11-03T06:07:55+0300,True,False
+PP-000206,C0019,premium,3,62.35,187.05,BYN,courier,сайт,done,2026-11-04T18:00:39+0300,True,False
+PP-000207,C0096,classic,1,81.9,81.9,BYN,post,пункт приёма,transit,2026-10-31T03:50:09+0300,True,False
+PP-000208,C0182,classic,1,109.9,109.9,BYN,courier,соцсети,ai_check,2026-10-11T17:53:03+0300,False,False
+PP-000209,C0142,classic,1,117.9,117.9,BYN,courier,сайт,binding,2026-10-20T11:08:10+0300,True,False
+PP-000210,C0024,classic,1,109.9,109.9,BYN,pickup,мобильное приложение,paid,2026-11-08T16:36:33+0300,True,False
+PP-000211,C0166,digital,50,0.49,24.5,BYN,pickup,пункт приёма,qc,2026-10-14T03:39:28+0300,True,False
+PP-000212,C0173,classic,1,93.9,93.9,BYN,post,сайт,paid,2026-11-07T15:38:42+0300,True,False
+PP-000213,C0035,digital,10,0.49,4.9,BYN,courier,пункт приёма,paid,2026-09-03T18:16:36+0300,True,False
+PP-000214,C0054,prints,10,0.65,6.5,BYN,pickup,мобильное приложение,qc,2026-10-09T04:08:27+0300,True,False
+PP-000215,C0203,lite,1,86.0,86.0,BYN,post,мобильное приложение,printing,2026-10-23T18:37:21+0300,True,False
+PP-000216,C0076,premium,1,70.35,70.35,BYN,courier,мобильное приложение,binding,2026-10-09T20:13:20+0300,True,False
+PP-000217,C0187,premium,1,79.35,79.35,BYN,post,соцсети,ai_check,2026-09-11T03:57:33+0300,True,False
+PP-000218,C0152,lite,1,78.0,78.0,BYN,courier,соцсети,paid,2026-07-25T10:03:35+0300,True,False
+PP-000219,C0031,premium,1,91.35,91.35,BYN,pickup,сайт,paid,2026-09-02T14:23:42+0300,True,False
+PP-000220,C0181,digital,20,0.49,9.8,BYN,pickup,пункт приёма,handoff,2026-11-04T23:02:40+0300,True,False
+PP-000221,C0030,digital,10,0.49,4.9,BYN,courier,соцсети,done,2026-10-23T04:46:45+0300,True,False
+PP-000222,C0134,lite,1,70.0,70.0,BYN,pickup,мобильное приложение,binding,2026-08-08T22:06:12+0300,True,False
+PP-000223,C0240,classic,3,73.9,221.7,BYN,post,сайт,paid,2026-07-20T05:17:33+0300,True,False
+PP-000224,C0168,prints,30,0.65,19.5,BYN,courier,мобильное приложение,accepted,2026-07-20T14:39:47+0300,True,False
+PP-000225,C0226,prints,30,0.65,19.5,BYN,courier,мобильное приложение,qc,2026-09-05T22:21:55+0300,True,False
+PP-000226,C0011,lite,1,62.0,62.0,BYN,pickup,мобильное приложение,binding,2026-10-14T21:02:19+0300,True,False
+PP-000227,C0074,prints,20,0.65,13.0,BYN,post,сайт,qc,2026-08-14T10:10:40+0300,True,False
+PP-000228,C0085,digital,10,0.49,4.9,BYN,post,соцсети,ai_check,2026-09-27T21:51:08+0300,True,False
+PP-000229,C0220,prints,10,0.65,6.5,BYN,courier,соцсети,qc,2026-11-07T23:16:34+0300,True,False
+PP-000230,C0155,prints,10,0.65,6.5,BYN,post,сайт,accepted,2026-09-30T21:53:43+0300,True,False
+PP-000231,C0189,digital,10,0.49,4.9,BYN,post,пункт приёма,binding,2026-10-17T05:23:17+0300,True,False
+PP-000232,C0024,premium,1,79.35,79.35,BYN,pickup,мобильное приложение,accepted,2026-10-25T16:09:29+0300,False,False
+PP-000233,C0144,classic,2,85.9,171.8,BYN,courier,сайт,done,2026-11-04T11:50:58+0300,True,False
+PP-000234,C0055,classic,2,117.9,235.8,BYN,pickup,мобильное приложение,binding,2026-08-27T11:47:06+0300,True,False
+PP-000235,C0093,digital,30,0.49,14.7,BYN,courier,сайт,transit,2026-07-23T09:10:21+0300,True,False
+PP-000236,C0033,classic,1,72.9,72.9,BYN,post,пункт приёма,transit,2026-08-06T21:56:18+0300,True,False
+PP-000237,C0075,prints,10,0.65,6.5,BYN,pickup,пункт приёма,binding,2026-11-04T13:20:43+0300,True,False
+PP-000238,C0114,lite,2,48.0,96.0,BYN,post,мобильное приложение,binding,2026-08-08T10:59:12+0300,True,True
+PP-000239,C0104,prints,30,0.65,19.5,BYN,courier,пункт приёма,paid,2026-09-06T18:49:12+0300,False,False
+PP-000240,C0226,prints,50,0.65,32.5,BYN,pickup,сайт,done,2026-10-10T14:46:37+0300,True,False
+PP-000241,C0214,digital,10,0.49,4.9,BYN,post,пункт приёма,binding,2026-09-26T15:06:30+0300,True,False
+PP-000242,C0014,digital,30,0.49,14.7,BYN,pickup,пункт приёма,paid,2026-10-21T12:37:41+0300,True,False
+PP-000243,C0087,prints,50,0.65,32.5,BYN,pickup,мобильное приложение,handoff,2026-09-06T21:59:52+0300,True,False
+PP-000244,C0170,digital,10,0.49,4.9,BYN,courier,соцсети,qc,2026-08-21T00:05:05+0300,True,False
+PP-000245,C0085,lite,1,86.0,86.0,BYN,courier,мобильное приложение,binding,2026-08-21T08:55:38+0300,True,False
+PP-000246,C0151,premium,1,62.35,62.35,BYN,post,соцсети,accepted,2026-10-02T11:28:24+0300,True,False
+PP-000247,C0124,digital,20,0.49,9.8,BYN,pickup,пункт приёма,transit,2026-09-27T00:28:40+0300,False,False
+PP-000248,C0069,premium,1,62.35,62.35,BYN,courier,соцсети,done,2026-07-28T14:11:25+0300,True,False
+PP-000249,C0150,classic,3,73.9,221.7,BYN,post,мобильное приложение,ai_check,2026-07-17T07:59:07+0300,True,False
+PP-000250,C0018,classic,1,93.9,93.9,BYN,courier,соцсети,accepted,2026-10-23T06:09:19+0300,True,False
+PP-000251,C0070,premium,1,115.35,115.35,BYN,pickup,пункт приёма,handoff,2026-10-11T10:49:55+0300,True,False
+PP-000252,C0198,classic,3,109.9,329.7,BYN,post,соцсети,ai_check,2026-09-06T23:26:02+0300,True,False
+PP-000253,C0037,premium,1,107.35,107.35,BYN,courier,мобильное приложение,printing,2026-09-20T22:42:06+0300,True,False
+PP-000254,C0098,prints,50,0.65,32.5,BYN,courier,соцсети,binding,2026-08-02T02:42:57+0300,True,False
+PP-000255,C0187,prints,50,0.65,32.5,BYN,pickup,пункт приёма,printing,2026-09-02T16:46:29+0300,True,False
+PP-000256,C0080,classic,2,64.9,129.8,BYN,post,сайт,transit,2026-11-01T22:24:46+0300,True,False
+PP-000257,C0216,lite,2,62.0,124.0,BYN,post,сайт,done,2026-10-14T01:12:05+0300,True,False
+PP-000258,C0023,prints,50,0.65,32.5,BYN,post,сайт,accepted,2026-07-15T00:45:09+0300,False,False
+PP-000259,C0197,premium,3,70.35,211.05,BYN,post,сайт,binding,2026-08-12T19:40:17+0300,True,False
+PP-000260,C0144,classic,1,93.9,93.9,BYN,pickup,сайт,binding,2026-10-25T14:04:30+0300,False,False
+PP-000261,C0230,premium,1,107.35,107.35,BYN,post,сайт,handoff,2026-11-08T00:23:13+0300,True,False
+PP-000262,C0189,lite,1,70.0,70.0,BYN,pickup,сайт,binding,2026-09-02T21:06:29+0300,True,False
+PP-000263,C0048,classic,1,85.9,85.9,BYN,courier,сайт,paid,2026-10-27T00:10:57+0300,True,False
+PP-000264,C0149,prints,30,0.65,19.5,BYN,courier,мобильное приложение,accepted,2026-09-07T13:30:50+0300,True,False
+PP-000265,C0032,premium,2,62.35,124.7,BYN,courier,мобильное приложение,qc,2026-10-28T03:49:23+0300,True,False
+PP-000266,C0046,digital,50,0.49,24.5,BYN,pickup,соцсети,transit,2026-09-22T08:14:38+0300,True,False
+PP-000267,C0156,digital,30,0.49,14.7,BYN,post,соцсети,accepted,2026-08-03T03:32:29+0300,True,False
+PP-000268,C0024,premium,3,115.35,346.05,BYN,post,сайт,accepted,2026-07-21T00:28:38+0300,True,False
+PP-000269,C0237,premium,3,83.35,250.05,BYN,post,соцсети,paid,2026-07-28T18:01:55+0300,True,False
+PP-000270,C0134,premium,3,79.35,238.05,BYN,post,пункт приёма,printing,2026-10-15T07:11:07+0300,True,False
+PP-000271,C0167,lite,2,70.0,140.0,BYN,post,соцсети,accepted,2026-08-15T05:05:30+0300,True,False
+PP-000272,C0196,prints,30,0.65,19.5,BYN,post,сайт,qc,2026-10-07T12:31:16+0300,True,False
+PP-000273,C0015,classic,3,81.9,245.7,BYN,post,соцсети,done,2026-10-07T17:40:17+0300,True,False
+PP-000274,C0150,lite,1,62.0,62.0,BYN,pickup,мобильное приложение,transit,2026-08-06T21:12:36+0300,True,False
+PP-000275,C0061,classic,1,109.9,109.9,BYN,pickup,соцсети,binding,2026-08-12T17:36:00+0300,True,False
+PP-000276,C0137,premium,2,83.35,166.7,BYN,pickup,сайт,qc,2026-09-19T10:00:23+0300,True,False
+PP-000277,C0030,lite,1,62.0,62.0,BYN,pickup,мобильное приложение,paid,2026-07-22T15:55:03+0300,True,False
+PP-000278,C0125,lite,1,78.0,78.0,BYN,courier,сайт,handoff,2026-09-21T15:15:48+0300,True,False
+PP-000279,C0066,prints,30,0.65,19.5,BYN,pickup,мобильное приложение,printing,2026-07-16T04:21:02+0300,False,True
+PP-000280,C0160,premium,1,115.35,115.35,BYN,post,мобильное приложение,done,2026-09-28T19:38:34+0300,True,False
+PP-000281,C0173,classic,1,72.9,72.9,BYN,post,соцсети,ai_check,2026-10-14T06:48:04+0300,True,False
+PP-000282,C0109,prints,10,0.65,6.5,BYN,post,пункт приёма,paid,2026-09-19T04:39:31+0300,True,False
+PP-000283,C0119,classic,1,64.9,64.9,BYN,pickup,мобильное приложение,handoff,2026-08-01T16:02:11+0300,True,False
+PP-000284,C0183,prints,30,0.65,19.5,BYN,courier,соцсети,accepted,2026-08-03T16:19:20+0300,True,True
+PP-000285,C0070,classic,1,81.9,81.9,BYN,courier,пункт приёма,handoff,2026-10-06T09:39:18+0300,True,True
+PP-000286,C0064,premium,1,83.35,83.35,BYN,post,сайт,ai_check,2026-10-13T21:49:02+0300,False,False
+PP-000287,C0177,premium,1,91.35,91.35,BYN,pickup,сайт,binding,2026-10-01T11:37:58+0300,True,False
+PP-000288,C0190,premium,1,79.35,79.35,BYN,courier,мобильное приложение,done,2026-10-02T16:11:52+0300,True,False
+PP-000289,C0045,digital,50,0.49,24.5,BYN,pickup,мобильное приложение,done,2026-11-02T04:30:16+0300,True,False
+PP-000290,C0066,lite,1,86.0,86.0,BYN,pickup,соцсети,qc,2026-10-01T19:02:20+0300,True,False
+PP-000291,C0070,classic,1,93.9,93.9,BYN,courier,соцсети,accepted,2026-09-09T04:25:56+0300,True,False
+PP-000292,C0201,premium,1,79.35,79.35,BYN,courier,сайт,done,2026-07-18T01:06:46+0300,True,False
+PP-000293,C0004,digital,30,0.49,14.7,BYN,pickup,соцсети,handoff,2026-10-01T07:47:48+0300,True,False
+PP-000294,C0146,premium,2,91.35,182.7,BYN,courier,соцсети,paid,2026-08-01T05:22:20+0300,True,False
+PP-000295,C0237,prints,30,0.65,19.5,BYN,pickup,соцсети,qc,2026-08-30T00:23:25+0300,True,False
+PP-000296,C0202,prints,50,0.65,32.5,BYN,pickup,соцсети,paid,2026-09-26T01:52:06+0300,True,False
+PP-000297,C0196,lite,1,70.0,70.0,BYN,courier,соцсети,accepted,2026-11-01T13:20:47+0300,True,False
+PP-000298,C0067,classic,1,72.9,72.9,BYN,post,пункт приёма,qc,2026-09-21T23:07:48+0300,True,False
+PP-000299,C0053,digital,10,0.49,4.9,BYN,post,мобильное приложение,accepted,2026-09-16T00:46:38+0300,True,False
+PP-000300,C0098,premium,1,91.35,91.35,BYN,post,пункт приёма,printing,2026-09-22T16:55:08+0300,True,False
+PP-000301,C0145,prints,50,0.65,32.5,BYN,pickup,сайт,binding,2026-10-24T09:43:59+0300,True,False
+PP-000302,C0061,classic,1,72.9,72.9,BYN,courier,мобильное приложение,handoff,2026-08-12T17:51:20+0300,True,False
+PP-000303,C0200,classic,2,109.9,219.8,BYN,courier,сайт,transit,2026-09-12T09:40:45+0300,True,False
+PP-000304,C0219,prints,20,0.65,13.0,BYN,post,соцсети,binding,2026-11-07T06:58:20+0300,True,False
+PP-000305,C0101,premium,2,91.35,182.7,BYN,post,соцсети,transit,2026-09-18T19:44:57+0300,True,False
+PP-000306,C0053,premium,1,70.35,70.35,BYN,courier,мобильное приложение,qc,2026-10-09T18:58:20+0300,True,False
+PP-000307,C0109,lite,2,70.0,140.0,BYN,post,пункт приёма,binding,2026-09-13T19:35:04+0300,True,False
+PP-000308,C0014,classic,3,73.9,221.7,BYN,pickup,пункт приёма,binding,2026-11-06T10:25:19+0300,True,False
+PP-000309,C0239,digital,20,0.49,9.8,BYN,pickup,соцсети,paid,2026-10-11T16:33:07+0300,False,False
+PP-000310,C0199,classic,2,117.9,235.8,BYN,pickup,сайт,binding,2026-11-11T09:55:54+0300,True,False
+PP-000311,C0090,prints,50,0.65,32.5,BYN,post,мобильное приложение,handoff,2026-10-26T13:32:18+0300,True,False
+PP-000312,C0010,classic,1,73.9,73.9,BYN,post,соцсети,ai_check,2026-08-19T01:10:14+0300,True,False
+PP-000313,C0164,premium,1,107.35,107.35,BYN,pickup,соцсети,binding,2026-10-23T15:53:41+0300,True,False
+PP-000314,C0200,classic,1,81.9,81.9,BYN,courier,пункт приёма,done,2026-10-17T22:02:42+0300,True,False
+PP-000315,C0039,premium,1,79.35,79.35,BYN,pickup,пункт приёма,binding,2026-07-28T09:25:34+0300,True,False
+PP-000316,C0078,lite,1,62.0,62.0,BYN,pickup,соцсети,qc,2026-07-22T23:20:34+0300,True,False
+PP-000317,C0018,classic,1,73.9,73.9,BYN,pickup,пункт приёма,transit,2026-08-19T11:42:00+0300,True,False
+PP-000318,C0086,lite,1,70.0,70.0,BYN,pickup,сайт,done,2026-07-19T18:46:39+0300,False,False
+PP-000319,C0024,prints,50,0.65,32.5,BYN,pickup,соцсети,ai_check,2026-08-08T03:05:35+0300,True,False
+PP-000320,C0058,premium,1,107.35,107.35,BYN,courier,мобильное приложение,qc,2026-09-23T14:31:00+0300,True,False
+PP-000321,C0114,digital,20,0.49,9.8,BYN,pickup,пункт приёма,qc,2026-10-03T02:32:22+0300,True,False
+PP-000322,C0142,digital,10,0.49,4.9,BYN,post,мобильное приложение,done,2026-10-12T07:03:28+0300,True,False
+PP-000323,C0069,premium,1,71.35,71.35,BYN,post,соцсети,binding,2026-08-04T07:33:25+0300,True,False
+PP-000324,C0232,lite,3,54.0,162.0,BYN,courier,соцсети,printing,2026-07-22T03:56:44+0300,True,False
+PP-000325,C0157,digital,50,0.49,24.5,BYN,pickup,мобильное приложение,accepted,2026-10-10T21:38:03+0300,False,False
+PP-000326,C0135,lite,2,70.0,140.0,BYN,post,пункт приёма,accepted,2026-09-14T15:36:07+0300,True,False
+PP-000327,C0151,prints,20,0.65,13.0,BYN,post,соцсети,printing,2026-08-06T14:56:19+0300,True,False
+PP-000328,C0116,digital,10,0.49,4.9,BYN,courier,сайт,qc,2026-10-21T08:51:47+0300,True,False
+PP-000329,C0173,digital,20,0.49,9.8,BYN,pickup,соцсети,paid,2026-09-12T07:44:44+0300,True,False
+PP-000330,C0139,premium,1,62.35,62.35,BYN,courier,соцсети,printing,2026-08-22T13:36:06+0300,True,False
+PP-000331,C0022,premium,3,83.35,250.05,BYN,courier,сайт,qc,2026-10-01T01:53:55+0300,True,False
+PP-000332,C0224,classic,1,117.9,117.9,BYN,pickup,сайт,printing,2026-11-02T21:32:40+0300,True,False
+PP-000333,C0100,premium,3,79.35,238.05,BYN,courier,сайт,printing,2026-08-09T06:31:25+0300,False,False
+PP-000334,C0095,premium,2,71.35,142.7,BYN,post,пункт приёма,transit,2026-10-05T01:38:57+0300,True,False
+PP-000335,C0023,prints,20,0.65,13.0,BYN,courier,мобильное приложение,ai_check,2026-09-19T16:08:27+0300,True,False
+PP-000336,C0076,classic,1,117.9,117.9,BYN,pickup,мобильное приложение,binding,2026-08-02T20:37:18+0300,True,False
+PP-000337,C0074,digital,20,0.49,9.8,BYN,post,сайт,qc,2026-09-01T07:01:03+0300,True,False
+PP-000338,C0217,premium,1,79.35,79.35,BYN,pickup,пункт приёма,binding,2026-09-14T01:50:03+0300,True,False
+PP-000339,C0125,digital,30,0.49,14.7,BYN,courier,пункт приёма,paid,2026-10-04T11:40:13+0300,True,True
+PP-000340,C0026,premium,1,115.35,115.35,BYN,post,соцсети,handoff,2026-10-28T07:31:02+0300,True,False
+PP-000341,C0078,lite,1,70.0,70.0,BYN,courier,мобильное приложение,qc,2026-09-22T09:06:42+0300,True,False
+PP-000342,C0192,digital,30,0.49,14.7,BYN,pickup,соцсети,accepted,2026-07-29T08:28:12+0300,True,False
+PP-000343,C0226,lite,2,54.0,108.0,BYN,post,соцсети,ai_check,2026-07-29T03:39:51+0300,True,False
+PP-000344,C0086,lite,1,48.0,48.0,BYN,post,пункт приёма,printing,2026-10-12T05:55:49+0300,True,False
+PP-000345,C0072,prints,30,0.65,19.5,BYN,pickup,соцсети,binding,2026-08-28T19:26:26+0300,True,False
+PP-000346,C0147,digital,50,0.49,24.5,BYN,pickup,соцсети,binding,2026-09-04T18:34:10+0300,True,False
+PP-000347,C0108,digital,30,0.49,14.7,BYN,courier,пункт приёма,paid,2026-10-13T10:48:02+0300,True,False
+PP-000348,C0236,classic,1,93.9,93.9,BYN,pickup,мобильное приложение,done,2026-08-12T05:05:14+0300,True,False
+PP-000349,C0032,classic,1,73.9,73.9,BYN,pickup,мобильное приложение,qc,2026-09-12T17:17:44+0300,True,False
+PP-000350,C0128,prints,20,0.65,13.0,BYN,post,соцсети,transit,2026-07-23T19:31:27+0300,True,False
+PP-000351,C0175,premium,1,107.35,107.35,BYN,pickup,пункт приёма,handoff,2026-10-09T10:45:41+0300,True,False
+PP-000352,C0216,lite,2,48.0,96.0,BYN,pickup,пункт приёма,accepted,2026-10-29T17:10:08+0300,True,False
+PP-000353,C0124,lite,1,70.0,70.0,BYN,post,соцсети,done,2026-10-22T10:36:19+0300,True,False
+PP-000354,C0090,digital,30,0.49,14.7,BYN,courier,мобильное приложение,transit,2026-10-26T14:16:06+0300,True,False
+PP-000355,C0046,lite,1,56.0,56.0,BYN,courier,соцсети,printing,2026-10-30T09:24:04+0300,True,False
+PP-000356,C0028,prints,10,0.65,6.5,BYN,post,соцсети,done,2026-08-31T00:50:38+0300,True,False
+PP-000357,C0048,digital,10,0.49,4.9,BYN,post,мобильное приложение,printing,2026-08-28T17:07:44+0300,True,False
+PP-000358,C0007,prints,20,0.65,13.0,BYN,pickup,мобильное приложение,printing,2026-11-02T22:17:33+0300,True,False
+PP-000359,C0005,prints,50,0.65,32.5,BYN,post,соцсети,done,2026-08-12T05:32:16+0300,True,False
+PP-000360,C0151,lite,1,78.0,78.0,BYN,pickup,соцсети,printing,2026-10-15T01:20:38+0300,True,False
+PP-000361,C0004,lite,2,56.0,112.0,BYN,post,пункт приёма,qc,2026-10-05T02:32:19+0300,True,False
+PP-000362,C0164,lite,3,62.0,186.0,BYN,pickup,соцсети,transit,2026-08-07T05:22:10+0300,True,True
+PP-000363,C0013,digital,50,0.49,24.5,BYN,pickup,мобильное приложение,binding,2026-07-31T08:13:46+0300,True,False
+PP-000364,C0233,digital,20,0.49,9.8,BYN,pickup,пункт приёма,paid,2026-07-18T20:25:40+0300,True,False
+PP-000365,C0208,digital,30,0.49,14.7,BYN,post,мобильное приложение,binding,2026-10-18T22:35:28+0300,True,False
+PP-000366,C0009,digital,50,0.49,24.5,BYN,post,соцсети,transit,2026-10-03T03:22:37+0300,True,False
+PP-000367,C0106,premium,2,70.35,140.7,BYN,post,сайт,printing,2026-08-18T02:03:02+0300,True,False
+PP-000368,C0213,digital,20,0.49,9.8,BYN,post,соцсети,transit,2026-10-04T17:53:27+0300,True,False
+PP-000369,C0123,lite,1,56.0,56.0,BYN,pickup,соцсети,ai_check,2026-09-22T10:45:11+0300,False,False
+PP-000370,C0050,classic,1,85.9,85.9,BYN,pickup,пункт приёма,paid,2026-10-23T17:22:09+0300,True,False
+PP-000371,C0132,classic,1,109.9,109.9,BYN,pickup,мобильное приложение,accepted,2026-08-06T08:16:10+0300,True,False
+PP-000372,C0191,prints,20,0.65,13.0,BYN,post,пункт приёма,printing,2026-11-10T10:06:23+0300,True,False
+PP-000373,C0032,classic,3,117.9,353.7,BYN,pickup,сайт,qc,2026-09-15T09:23:37+0300,True,False
+PP-000374,C0016,classic,1,81.9,81.9,BYN,courier,соцсети,done,2026-10-22T00:48:12+0300,True,False
+PP-000375,C0025,classic,2,73.9,147.8,BYN,post,соцсети,handoff,2026-11-04T14:45:31+0300,True,False
+PP-000376,C0169,classic,1,117.9,117.9,BYN,post,соцсети,binding,2026-10-24T04:38:26+0300,True,False
+PP-000377,C0186,premium,2,107.35,214.7,BYN,courier,сайт,paid,2026-09-28T07:14:44+0300,True,False
+PP-000378,C0105,prints,20,0.65,13.0,BYN,post,пункт приёма,printing,2026-07-16T18:08:26+0300,True,False
+PP-000379,C0229,lite,1,62.0,62.0,BYN,pickup,соцсети,transit,2026-07-23T15:20:19+0300,True,False
+PP-000380,C0044,classic,3,73.9,221.7,BYN,post,сайт,qc,2026-10-31T14:20:09+0300,True,False
+PP-000381,C0019,premium,2,70.35,140.7,BYN,courier,мобильное приложение,qc,2026-10-18T22:07:32+0300,True,False
+PP-000382,C0215,digital,10,0.49,4.9,BYN,post,мобильное приложение,paid,2026-09-05T00:42:58+0300,True,False
+PP-000383,C0017,lite,1,62.0,62.0,BYN,pickup,соцсети,transit,2026-10-17T07:12:45+0300,False,False
+PP-000384,C0151,premium,1,115.35,115.35,BYN,post,соцсети,accepted,2026-07-29T12:39:49+0300,True,False
+PP-000385,C0046,lite,1,56.0,56.0,BYN,courier,мобильное приложение,done,2026-09-17T07:18:49+0300,True,False
+PP-000386,C0074,lite,2,78.0,156.0,BYN,pickup,сайт,handoff,2026-08-20T05:09:55+0300,False,False
+PP-000387,C0159,digital,30,0.49,14.7,BYN,post,сайт,accepted,2026-08-03T11:07:42+0300,True,False
+PP-000388,C0095,premium,2,107.35,214.7,BYN,courier,мобильное приложение,qc,2026-11-08T17:20:33+0300,True,False
+PP-000389,C0228,prints,30,0.65,19.5,BYN,pickup,мобильное приложение,transit,2026-09-21T21:29:19+0300,True,False
+PP-000390,C0235,prints,20,0.65,13.0,BYN,pickup,соцсети,paid,2026-10-07T04:37:53+0300,True,False
+PP-000391,C0110,digital,50,0.49,24.5,BYN,pickup,соцсети,accepted,2026-08-14T05:13:45+0300,True,False
+PP-000392,C0165,prints,50,0.65,32.5,BYN,courier,сайт,printing,2026-09-23T22:54:09+0300,True,False
+PP-000393,C0195,lite,1,62.0,62.0,BYN,pickup,пункт приёма,transit,2026-08-03T05:40:43+0300,True,False
+PP-000394,C0221,lite,1,70.0,70.0,BYN,post,соцсети,handoff,2026-08-29T19:54:38+0300,True,False
+PP-000395,C0172,premium,1,91.35,91.35,BYN,post,сайт,accepted,2026-10-30T13:16:17+0300,True,False
+PP-000396,C0027,lite,3,78.0,234.0,BYN,pickup,пункт приёма,done,2026-07-31T16:20:09+0300,True,False
+PP-000397,C0163,premium,1,91.35,91.35,BYN,post,сайт,binding,2026-10-16T11:59:24+0300,True,False
+PP-000398,C0078,classic,2,85.9,171.8,BYN,post,сайт,binding,2026-07-17T08:29:07+0300,True,False
+PP-000399,C0007,premium,1,70.35,70.35,BYN,pickup,мобильное приложение,ai_check,2026-09-24T14:48:09+0300,True,False
+PP-000400,C0153,classic,2,109.9,219.8,BYN,post,соцсети,printing,2026-08-31T16:29:54+0300,True,False
+PP-000401,C0125,prints,20,0.65,13.0,BYN,pickup,сайт,handoff,2026-10-12T17:24:14+0300,True,False
+PP-000402,C0131,premium,1,62.35,62.35,BYN,courier,соцсети,paid,2026-09-08T23:03:53+0300,True,False
+PP-000403,C0045,classic,2,109.9,219.8,BYN,courier,мобильное приложение,binding,2026-08-15T16:40:17+0300,True,False
+PP-000404,C0015,digital,10,0.49,4.9,BYN,pickup,мобильное приложение,paid,2026-10-20T14:04:16+0300,True,False
+PP-000405,C0166,prints,30,0.65,19.5,BYN,pickup,соцсети,binding,2026-08-21T10:17:10+0300,True,False
+PP-000406,C0166,digital,10,0.49,4.9,BYN,pickup,мобильное приложение,transit,2026-10-06T09:20:53+0300,True,False
+PP-000407,C0150,premium,1,107.35,107.35,BYN,courier,пункт приёма,handoff,2026-10-31T00:04:33+0300,True,False
+PP-000408,C0225,digital,20,0.49,9.8,BYN,courier,соцсети,paid,2026-09-30T11:39:30+0300,True,False
+PP-000409,C0167,digital,10,0.49,4.9,BYN,post,соцсети,qc,2026-10-19T16:12:44+0300,True,False
+PP-000410,C0092,digital,20,0.49,9.8,BYN,courier,сайт,printing,2026-10-07T19:50:59+0300,True,False
+PP-000411,C0223,prints,10,0.65,6.5,BYN,courier,мобильное приложение,binding,2026-09-06T22:48:12+0300,True,False
+PP-000412,C0091,prints,30,0.65,19.5,BYN,courier,соцсети,accepted,2026-07-18T00:28:21+0300,True,False
+PP-000413,C0060,prints,10,0.65,6.5,BYN,courier,пункт приёма,qc,2026-08-21T10:17:46+0300,True,False
+PP-000414,C0082,premium,2,62.35,124.7,BYN,post,пункт приёма,done,2026-10-06T22:40:17+0300,True,False
+PP-000415,C0043,premium,1,83.35,83.35,BYN,pickup,сайт,binding,2026-08-08T02:09:00+0300,True,False
+PP-000416,C0230,premium,1,79.35,79.35,BYN,courier,соцсети,paid,2026-11-04T08:27:25+0300,True,False
+PP-000417,C0108,classic,1,64.9,64.9,BYN,courier,сайт,printing,2026-09-02T02:05:02+0300,True,False
+PP-000418,C0107,premium,1,91.35,91.35,BYN,pickup,пункт приёма,accepted,2026-11-04T07:20:00+0300,True,False
+PP-000419,C0001,prints,50,0.65,32.5,BYN,post,пункт приёма,accepted,2026-09-08T08:01:27+0300,True,False
+PP-000420,C0176,classic,1,85.9,85.9,BYN,pickup,пункт приёма,qc,2026-09-20T07:25:41+0300,True,False
+PP-000421,C0225,classic,1,85.9,85.9,BYN,courier,мобильное приложение,qc,2026-07-31T11:55:13+0300,True,False
+PP-000422,C0044,prints,30,0.65,19.5,BYN,post,мобильное приложение,printing,2026-08-12T05:40:06+0300,True,False
+PP-000423,C0007,prints,10,0.65,6.5,BYN,courier,пункт приёма,ai_check,2026-10-26T06:15:37+0300,True,False
+PP-000424,C0218,premium,1,107.35,107.35,BYN,courier,пункт приёма,qc,2026-10-23T01:00:09+0300,True,False
+PP-000425,C0161,prints,50,0.65,32.5,BYN,courier,сайт,handoff,2026-10-18T05:29:08+0300,True,False
+PP-000426,C0016,digital,10,0.49,4.9,BYN,pickup,мобильное приложение,binding,2026-07-27T15:30:41+0300,True,False
+PP-000427,C0085,premium,1,79.35,79.35,BYN,courier,пункт приёма,accepted,2026-09-22T03:21:36+0300,True,False
+PP-000428,C0163,classic,1,93.9,93.9,BYN,courier,мобильное приложение,transit,2026-08-03T23:41:37+0300,True,False
+PP-000429,C0027,premium,1,79.35,79.35,BYN,courier,сайт,binding,2026-10-12T01:29:15+0300,True,False
+PP-000430,C0099,lite,2,70.0,140.0,BYN,pickup,пункт приёма,transit,2026-08-16T07:35:37+0300,False,True
+PP-000431,C0096,premium,2,70.35,140.7,BYN,pickup,сайт,paid,2026-08-11T09:09:44+0300,True,False
+PP-000432,C0159,prints,10,0.65,6.5,BYN,pickup,соцсети,printing,2026-09-26T18:26:18+0300,True,False
+PP-000433,C0088,lite,1,54.0,54.0,BYN,post,пункт приёма,accepted,2026-09-28T02:54:32+0300,True,False
+PP-000434,C0015,prints,50,0.65,32.5,BYN,courier,пункт приёма,transit,2026-11-07T11:27:50+0300,True,False
+PP-000435,C0021,premium,1,62.35,62.35,BYN,courier,сайт,done,2026-11-03T06:31:34+0300,True,False
+PP-000436,C0171,classic,1,85.9,85.9,BYN,pickup,пункт приёма,paid,2026-09-13T12:01:03+0300,True,False
+PP-000437,C0158,lite,1,62.0,62.0,BYN,post,пункт приёма,printing,2026-09-01T02:58:57+0300,True,False
+PP-000438,C0028,lite,1,54.0,54.0,BYN,post,мобильное приложение,accepted,2026-09-17T05:14:59+0300,True,False
+PP-000439,C0009,classic,2,117.9,235.8,BYN,pickup,сайт,transit,2026-08-10T06:02:55+0300,True,False
+PP-000440,C0174,digital,10,0.49,4.9,BYN,courier,пункт приёма,done,2026-07-20T16:05:21+0300,True,False
+PP-000441,C0193,digital,10,0.49,4.9,BYN,pickup,пункт приёма,done,2026-07-30T06:05:32+0300,True,False
+PP-000442,C0181,classic,1,81.9,81.9,BYN,pickup,соцсети,qc,2026-09-02T14:42:59+0300,True,False
+PP-000443,C0145,premium,1,115.35,115.35,BYN,pickup,пункт приёма,ai_check,2026-10-30T03:29:23+0300,True,False
+PP-000444,C0016,prints,30,0.65,19.5,BYN,courier,пункт приёма,transit,2026-10-29T05:35:02+0300,True,False
+PP-000445,C0181,premium,1,115.35,115.35,BYN,post,мобильное приложение,ai_check,2026-08-17T05:54:55+0300,True,False
+PP-000446,C0002,lite,1,78.0,78.0,BYN,pickup,мобильное приложение,handoff,2026-10-11T06:04:49+0300,True,False
+PP-000447,C0215,prints,50,0.65,32.5,BYN,pickup,пункт приёма,handoff,2026-08-26T13:39:58+0300,True,True
+PP-000448,C0004,lite,3,78.0,234.0,BYN,courier,сайт,paid,2026-10-25T11:05:02+0300,True,False
+PP-000449,C0059,classic,1,73.9,73.9,BYN,pickup,соцсети,transit,2026-10-06T17:59:43+0300,True,False
+PP-000450,C0070,prints,10,0.65,6.5,BYN,post,сайт,binding,2026-07-26T04:50:05+0300,True,False
+PP-000451,C0191,prints,10,0.65,6.5,BYN,courier,пункт приёма,done,2026-09-17T03:41:07+0300,False,False
+PP-000452,C0073,prints,50,0.65,32.5,BYN,pickup,мобильное приложение,binding,2026-10-15T22:28:50+0300,True,False
+PP-000453,C0115,classic,1,72.9,72.9,BYN,post,пункт приёма,done,2026-10-06T19:05:51+0300,True,False
+PP-000454,C0128,lite,1,86.0,86.0,BYN,pickup,соцсети,ai_check,2026-08-10T03:05:17+0300,True,False
+PP-000455,C0152,premium,1,79.35,79.35,BYN,pickup,мобильное приложение,accepted,2026-11-07T08:42:19+0300,True,False
+PP-000456,C0056,classic,1,64.9,64.9,BYN,courier,мобильное приложение,qc,2026-10-25T04:49:49+0300,True,False
+PP-000457,C0171,lite,1,78.0,78.0,BYN,pickup,соцсети,handoff,2026-09-30T12:18:47+0300,True,False
+PP-000458,C0140,digital,50,0.49,24.5,BYN,post,соцсети,qc,2026-11-07T13:29:26+0300,True,False
+PP-000459,C0134,digital,30,0.49,14.7,BYN,pickup,пункт приёма,binding,2026-08-22T09:23:00+0300,True,False
+PP-000460,C0198,prints,30,0.65,19.5,BYN,pickup,соцсети,ai_check,2026-10-18T19:38:10+0300,True,False
+PP-000461,C0063,classic,1,117.9,117.9,BYN,pickup,мобильное приложение,printing,2026-11-08T01:42:41+0300,True,False
+PP-000462,C0140,premium,1,79.35,79.35,BYN,pickup,соцсети,printing,2026-08-07T03:42:01+0300,True,False
+PP-000463,C0065,classic,1,72.9,72.9,BYN,pickup,соцсети,ai_check,2026-08-18T03:13:36+0300,True,False
+PP-000464,C0219,prints,20,0.65,13.0,BYN,post,сайт,printing,2026-10-30T08:28:22+0300,True,False
+PP-000465,C0114,lite,1,70.0,70.0,BYN,post,пункт приёма,qc,2026-07-17T20:55:53+0300,True,False
+PP-000466,C0016,lite,2,48.0,96.0,BYN,post,пункт приёма,accepted,2026-08-07T04:04:42+0300,True,False
+PP-000467,C0031,lite,1,86.0,86.0,BYN,pickup,сайт,handoff,2026-08-18T03:08:51+0300,True,False
+PP-000468,C0231,premium,1,70.35,70.35,BYN,post,мобильное приложение,done,2026-08-02T03:58:18+0300,True,False
+PP-000469,C0007,premium,1,79.35,79.35,BYN,pickup,мобильное приложение,binding,2026-08-20T12:10:02+0300,True,False
+PP-000470,C0100,lite,1,48.0,48.0,BYN,post,мобильное приложение,accepted,2026-08-18T00:59:36+0300,True,False
+PP-000471,C0110,classic,3,85.9,257.7,BYN,post,мобильное приложение,qc,2026-11-08T12:49:55+0300,True,False
+PP-000472,C0007,prints,20,0.65,13.0,BYN,pickup,пункт приёма,done,2026-08-12T22:46:41+0300,True,False
+PP-000473,C0224,premium,3,115.35,346.05,BYN,pickup,соцсети,qc,2026-08-05T17:57:08+0300,True,False
+PP-000474,C0081,premium,1,70.35,70.35,BYN,post,соцсети,qc,2026-10-30T23:33:34+0300,True,True
+PP-000475,C0013,lite,1,48.0,48.0,BYN,pickup,сайт,ai_check,2026-08-05T21:59:00+0300,True,False
+PP-000476,C0063,premium,1,62.35,62.35,BYN,post,сайт,paid,2026-08-27T06:11:59+0300,True,False
+PP-000477,C0099,prints,50,0.65,32.5,BYN,pickup,соцсети,transit,2026-08-31T22:17:00+0300,True,False
+PP-000478,C0009,digital,20,0.49,9.8,BYN,courier,соцсети,paid,2026-09-06T01:53:02+0300,True,False
+PP-000479,C0115,classic,1,109.9,109.9,BYN,pickup,мобильное приложение,done,2026-09-16T21:31:01+0300,True,False
+PP-000480,C0076,premium,1,71.35,71.35,BYN,post,соцсети,transit,2026-09-30T08:57:42+0300,True,False
+PP-000481,C0227,prints,30,0.65,19.5,BYN,pickup,сайт,qc,2026-08-10T04:44:39+0300,True,False
+PP-000482,C0059,classic,3,109.9,329.7,BYN,post,соцсети,binding,2026-08-22T19:19:17+0300,True,False
+PP-000483,C0121,lite,1,48.0,48.0,BYN,courier,пункт приёма,paid,2026-09-14T05:48:16+0300,True,False
+PP-000484,C0039,prints,10,0.65,6.5,BYN,post,соцсети,ai_check,2026-10-16T05:34:49+0300,True,False
+PP-000485,C0092,premium,1,91.35,91.35,BYN,post,пункт приёма,accepted,2026-08-04T20:03:10+0300,True,False
+PP-000486,C0038,premium,1,79.35,79.35,BYN,post,пункт приёма,done,2026-08-01T09:46:26+0300,True,False
+PP-000487,C0048,premium,1,70.35,70.35,BYN,pickup,соцсети,done,2026-09-08T22:24:06+0300,True,False
+PP-000488,C0047,prints,30,0.65,19.5,BYN,post,мобильное приложение,ai_check,2026-09-02T23:14:42+0300,False,False
+PP-000489,C0051,premium,1,71.35,71.35,BYN,courier,сайт,binding,2026-11-09T17:11:02+0300,True,False
+PP-000490,C0115,digital,20,0.49,9.8,BYN,post,соцсети,paid,2026-10-05T19:40:38+0300,True,False
+PP-000491,C0208,digital,20,0.49,9.8,BYN,pickup,сайт,ai_check,2026-09-30T18:01:45+0300,True,False
+PP-000492,C0049,premium,2,70.35,140.7,BYN,courier,сайт,handoff,2026-08-14T23:55:34+0300,False,False
+PP-000493,C0088,prints,50,0.65,32.5,BYN,courier,сайт,handoff,2026-10-13T01:41:03+0300,True,False
+PP-000494,C0200,premium,1,79.35,79.35,BYN,pickup,мобильное приложение,handoff,2026-09-05T11:30:21+0300,True,False
+PP-000495,C0183,lite,3,86.0,258.0,BYN,pickup,соцсети,printing,2026-09-20T23:29:09+0300,True,False
+PP-000496,C0234,classic,3,93.9,281.7,BYN,courier,мобильное приложение,qc,2026-10-01T21:52:39+0300,False,False
+PP-000497,C0093,digital,30,0.49,14.7,BYN,pickup,соцсети,ai_check,2026-09-29T21:27:45+0300,True,False
+PP-000498,C0075,prints,30,0.65,19.5,BYN,post,мобильное приложение,printing,2026-07-29T20:15:20+0300,True,False
+PP-000499,C0084,prints,50,0.65,32.5,BYN,pickup,пункт приёма,done,2026-09-21T01:24:26+0300,True,False
+PP-000500,C0181,digital,30,0.49,14.7,BYN,courier,сайт,accepted,2026-10-27T00:37:32+0300,True,False
+PP-000501,C0203,premium,1,83.35,83.35,BYN,courier,пункт приёма,handoff,2026-09-25T16:37:18+0300,True,False
+PP-000502,C0094,premium,3,115.35,346.05,BYN,post,сайт,printing,2026-10-10T16:40:12+0300,True,False
+PP-000503,C0209,prints,50,0.65,32.5,BYN,pickup,мобильное приложение,done,2026-08-25T02:24:57+0300,True,False
+PP-000504,C0084,prints,10,0.65,6.5,BYN,pickup,пункт приёма,paid,2026-07-18T05:44:44+0300,False,False
+PP-000505,C0239,premium,2,71.35,142.7,BYN,post,сайт,qc,2026-07-24T13:14:32+0300,True,False
+PP-000506,C0183,premium,3,83.35,250.05,BYN,pickup,пункт приёма,printing,2026-08-30T10:57:04+0300,True,False
+PP-000507,C0031,digital,30,0.49,14.7,BYN,courier,сайт,printing,2026-07-29T21:53:04+0300,True,False
+PP-000508,C0024,lite,3,54.0,162.0,BYN,courier,соцсети,paid,2026-08-06T00:26:00+0300,True,False
+PP-000509,C0108,digital,10,0.49,4.9,BYN,courier,соцсети,printing,2026-08-15T15:52:17+0300,True,False
+PP-000510,C0116,classic,1,73.9,73.9,BYN,post,пункт приёма,accepted,2026-08-10T23:59:00+0300,True,False
+PP-000511,C0185,classic,1,81.9,81.9,BYN,courier,мобильное приложение,ai_check,2026-09-27T17:59:30+0300,True,False
+PP-000512,C0226,prints,20,0.65,13.0,BYN,post,мобильное приложение,ai_check,2026-10-29T02:52:04+0300,True,False
+PP-000513,C0153,digital,50,0.49,24.5,BYN,pickup,мобильное приложение,printing,2026-09-06T23:49:07+0300,True,False
+PP-000514,C0149,classic,3,81.9,245.7,BYN,post,сайт,transit,2026-10-21T06:58:57+0300,True,False
+PP-000515,C0214,prints,30,0.65,19.5,BYN,post,сайт,handoff,2026-09-30T15:13:19+0300,True,False
+PP-000516,C0109,prints,30,0.65,19.5,BYN,courier,соцсети,done,2026-08-26T17:39:56+0300,True,False
+PP-000517,C0154,prints,50,0.65,32.5,BYN,pickup,соцсети,paid,2026-07-15T18:31:28+0300,True,False
+PP-000518,C0155,lite,3,62.0,186.0,BYN,courier,пункт приёма,accepted,2026-08-11T01:11:48+0300,True,False
+PP-000519,C0116,premium,1,71.35,71.35,BYN,pickup,пункт приёма,qc,2026-08-14T11:25:44+0300,True,False
+PP-000520,C0169,prints,10,0.65,6.5,BYN,post,пункт приёма,printing,2026-10-28T20:20:00+0300,True,False
+PP-000521,C0165,lite,3,62.0,186.0,BYN,courier,пункт приёма,qc,2026-08-01T17:50:15+0300,True,False
+PP-000522,C0159,classic,2,93.9,187.8,BYN,courier,мобильное приложение,binding,2026-08-17T07:42:17+0300,True,False
+PP-000523,C0146,lite,1,56.0,56.0,BYN,post,соцсети,paid,2026-08-06T15:08:27+0300,True,False
+PP-000524,C0183,premium,2,115.35,230.7,BYN,courier,мобильное приложение,binding,2026-10-18T17:56:21+0300,True,False
+PP-000525,C0153,lite,1,56.0,56.0,BYN,post,пункт приёма,paid,2026-10-18T03:44:35+0300,True,False
+PP-000526,C0028,premium,1,115.35,115.35,BYN,courier,пункт приёма,ai_check,2026-09-20T00:03:16+0300,False,False
+PP-000527,C0195,digital,50,0.49,24.5,BYN,post,сайт,printing,2026-07-30T06:49:25+0300,True,False
+PP-000528,C0055,prints,30,0.65,19.5,BYN,pickup,пункт приёма,handoff,2026-10-18T13:04:58+0300,True,False
+PP-000529,C0203,digital,50,0.49,24.5,BYN,courier,сайт,ai_check,2026-09-27T20:09:20+0300,False,False
+PP-000530,C0128,lite,3,56.0,168.0,BYN,pickup,сайт,paid,2026-08-22T14:10:07+0300,True,False
+PP-000531,C0056,digital,10,0.49,4.9,BYN,post,соцсети,done,2026-09-29T07:27:27+0300,True,False
+PP-000532,C0119,lite,1,70.0,70.0,BYN,post,сайт,ai_check,2026-07-24T19:37:13+0300,True,False
+PP-000533,C0041,classic,1,72.9,72.9,BYN,pickup,пункт приёма,handoff,2026-09-16T11:10:47+0300,True,False
+PP-000534,C0210,premium,2,91.35,182.7,BYN,post,соцсети,paid,2026-10-02T02:28:14+0300,True,False
+PP-000535,C0028,digital,30,0.49,14.7,BYN,post,сайт,binding,2026-09-23T05:38:31+0300,True,False
+PP-000536,C0234,prints,10,0.65,6.5,BYN,courier,мобильное приложение,paid,2026-07-31T22:25:00+0300,True,False
+PP-000537,C0026,digital,20,0.49,9.8,BYN,courier,пункт приёма,done,2026-09-20T21:36:49+0300,True,False
+PP-000538,C0179,lite,2,62.0,124.0,BYN,courier,соцсети,accepted,2026-09-07T15:07:06+0300,True,False
+PP-000539,C0111,classic,1,117.9,117.9,BYN,pickup,сайт,transit,2026-07-17T23:34:29+0300,True,False
+PP-000540,C0215,prints,10,0.65,6.5,BYN,post,сайт,printing,2026-08-06T12:36:40+0300,True,False
+PP-000541,C0175,prints,20,0.65,13.0,BYN,pickup,соцсети,handoff,2026-08-20T03:37:21+0300,True,False
+PP-000542,C0164,classic,1,72.9,72.9,BYN,post,пункт приёма,handoff,2026-07-16T10:23:50+0300,True,False
+PP-000543,C0157,premium,1,70.35,70.35,BYN,post,соцсети,done,2026-10-18T01:23:35+0300,True,False
+PP-000544,C0001,digital,10,0.49,4.9,BYN,post,сайт,done,2026-08-22T13:00:25+0300,False,False
+PP-000545,C0099,prints,20,0.65,13.0,BYN,courier,соцсети,accepted,2026-09-04T18:43:13+0300,True,False
+PP-000546,C0149,prints,10,0.65,6.5,BYN,courier,мобильное приложение,accepted,2026-09-15T16:00:46+0300,True,False
+PP-000547,C0022,premium,1,62.35,62.35,BYN,courier,пункт приёма,transit,2026-10-18T17:54:34+0300,True,False
+PP-000548,C0232,classic,2,81.9,163.8,BYN,courier,пункт приёма,ai_check,2026-10-20T16:35:53+0300,True,False
+PP-000549,C0114,prints,50,0.65,32.5,BYN,pickup,пункт приёма,paid,2026-09-25T08:53:39+0300,True,False
+PP-000550,C0155,lite,2,62.0,124.0,BYN,pickup,соцсети,qc,2026-09-30T06:56:39+0300,True,False
+PP-000551,C0229,lite,3,62.0,186.0,BYN,pickup,сайт,done,2026-09-04T08:28:08+0300,True,False
+PP-000552,C0059,digital,20,0.49,9.8,BYN,pickup,мобильное приложение,ai_check,2026-10-17T11:42:39+0300,True,False
+PP-000553,C0093,lite,2,70.0,140.0,BYN,pickup,сайт,done,2026-11-04T15:36:58+0300,True,False
+PP-000554,C0189,premium,1,83.35,83.35,BYN,post,мобильное приложение,handoff,2026-08-08T05:26:18+0300,True,False
+PP-000555,C0226,digital,30,0.49,14.7,BYN,pickup,мобильное приложение,done,2026-08-16T08:05:48+0300,True,False
+PP-000556,C0065,lite,1,62.0,62.0,BYN,courier,мобильное приложение,accepted,2026-09-18T20:13:44+0300,True,False
+PP-000557,C0137,classic,2,73.9,147.8,BYN,pickup,пункт приёма,qc,2026-10-24T18:36:57+0300,True,False
+PP-000558,C0065,digital,50,0.49,24.5,BYN,courier,соцсети,qc,2026-09-11T13:49:30+0300,True,False
+PP-000559,C0066,digital,50,0.49,24.5,BYN,courier,пункт приёма,binding,2026-09-01T12:17:40+0300,True,False
+PP-000560,C0114,lite,1,86.0,86.0,BYN,post,соцсети,ai_check,2026-10-02T13:29:48+0300,True,False
+PP-000561,C0183,premium,1,79.35,79.35,BYN,courier,пункт приёма,accepted,2026-10-22T01:20:29+0300,False,False
+PP-000562,C0131,premium,1,62.35,62.35,BYN,post,сайт,binding,2026-09-14T05:20:48+0300,True,False
+PP-000563,C0081,premium,2,70.35,140.7,BYN,post,мобильное приложение,qc,2026-08-08T09:13:08+0300,True,False
+PP-000564,C0070,digital,20,0.49,9.8,BYN,pickup,сайт,paid,2026-09-04T17:28:10+0300,True,False
+PP-000565,C0185,prints,20,0.65,13.0,BYN,post,мобильное приложение,handoff,2026-10-19T10:45:25+0300,True,False
+PP-000566,C0235,premium,1,71.35,71.35,BYN,post,пункт приёма,qc,2026-07-18T23:26:01+0300,True,False
+PP-000567,C0224,classic,1,73.9,73.9,BYN,post,пункт приёма,printing,2026-09-02T08:07:11+0300,True,False
+PP-000568,C0219,premium,1,115.35,115.35,BYN,post,соцсети,accepted,2026-10-15T19:23:27+0300,True,False
+PP-000569,C0041,lite,2,56.0,112.0,BYN,courier,пункт приёма,printing,2026-08-27T01:19:07+0300,True,False
+PP-000570,C0036,premium,1,71.35,71.35,BYN,courier,сайт,handoff,2026-09-03T17:32:33+0300,True,False
+PP-000571,C0194,lite,3,78.0,234.0,BYN,courier,мобильное приложение,paid,2026-08-15T06:30:24+0300,True,False
+PP-000572,C0153,prints,20,0.65,13.0,BYN,courier,сайт,paid,2026-09-02T16:04:17+0300,True,False
+PP-000573,C0138,premium,2,70.35,140.7,BYN,pickup,мобильное приложение,accepted,2026-10-10T14:50:00+0300,True,False
+PP-000574,C0189,premium,3,70.35,211.05,BYN,courier,сайт,accepted,2026-10-14T13:39:23+0300,True,True
+PP-000575,C0108,digital,30,0.49,14.7,BYN,pickup,соцсети,done,2026-09-24T16:30:33+0300,True,False
+PP-000576,C0224,classic,1,81.9,81.9,BYN,courier,пункт приёма,handoff,2026-10-17T08:11:09+0300,True,True
+PP-000577,C0111,premium,2,71.35,142.7,BYN,post,мобильное приложение,paid,2026-10-13T07:10:24+0300,False,False
+PP-000578,C0237,lite,1,48.0,48.0,BYN,post,мобильное приложение,ai_check,2026-09-06T14:30:27+0300,True,False
+PP-000579,C0233,lite,3,48.0,144.0,BYN,post,пункт приёма,paid,2026-09-08T23:24:58+0300,True,False
+PP-000580,C0236,digital,30,0.49,14.7,BYN,courier,мобильное приложение,binding,2026-10-08T06:28:37+0300,True,False
+PP-000581,C0193,premium,1,107.35,107.35,BYN,post,пункт приёма,paid,2026-08-06T20:55:18+0300,True,False
+PP-000582,C0090,lite,2,86.0,172.0,BYN,pickup,соцсети,done,2026-08-07T14:02:52+0300,True,False
+PP-000583,C0136,prints,30,0.65,19.5,BYN,pickup,соцсети,accepted,2026-10-24T10:42:36+0300,True,False
+PP-000584,C0122,digital,20,0.49,9.8,BYN,pickup,пункт приёма,binding,2026-08-29T13:27:04+0300,True,False
+PP-000585,C0162,prints,50,0.65,32.5,BYN,post,соцсети,printing,2026-11-10T13:53:19+0300,True,False
+PP-000586,C0139,lite,1,62.0,62.0,BYN,pickup,мобильное приложение,binding,2026-11-05T03:01:57+0300,True,False
+PP-000587,C0238,lite,1,62.0,62.0,BYN,post,мобильное приложение,accepted,2026-08-14T06:12:18+0300,True,False
+PP-000588,C0151,digital,20,0.49,9.8,BYN,post,сайт,binding,2026-08-09T14:20:21+0300,True,False
+PP-000589,C0029,prints,20,0.65,13.0,BYN,courier,мобильное приложение,handoff,2026-09-27T03:47:41+0300,True,False
+PP-000590,C0211,lite,1,62.0,62.0,BYN,pickup,мобильное приложение,printing,2026-08-31T08:27:57+0300,True,False
+PP-000591,C0157,digital,20,0.49,9.8,BYN,pickup,мобильное приложение,transit,2026-08-16T14:20:29+0300,True,False
+PP-000592,C0158,lite,3,48.0,144.0,BYN,post,мобильное приложение,ai_check,2026-09-30T08:55:14+0300,True,False
+PP-000593,C0039,prints,30,0.65,19.5,BYN,pickup,сайт,binding,2026-09-26T05:36:59+0300,False,False
+PP-000594,C0176,classic,1,93.9,93.9,BYN,post,пункт приёма,accepted,2026-09-17T14:54:29+0300,True,False
+PP-000595,C0212,prints,10,0.65,6.5,BYN,post,мобильное приложение,handoff,2026-07-23T03:10:30+0300,True,False
+PP-000596,C0225,classic,1,85.9,85.9,BYN,courier,соцсети,done,2026-10-13T12:26:08+0300,False,False
+PP-000597,C0088,lite,1,56.0,56.0,BYN,pickup,сайт,binding,2026-09-21T06:20:27+0300,True,False
+PP-000598,C0194,lite,1,86.0,86.0,BYN,pickup,сайт,binding,2026-07-19T14:20:31+0300,True,False
+PP-000599,C0021,premium,1,115.35,115.35,BYN,courier,сайт,paid,2026-09-23T20:25:34+0300,True,False
+PP-000600,C0163,lite,2,62.0,124.0,BYN,pickup,пункт приёма,binding,2026-09-30T18:35:29+0300,True,False

@@ -1,0 +1,21 @@
+streamlit>=1.36
+opencv-python>=4.8
+numpy
+pillow
+scipy
+# для кнопки «Демо-фото» (необязательно)
+scikit-image
+# запасной детектор людей, если не скачается модель лиц (необязательно)
+# ultralytics
+
+# ИИ-апскейл Real-ESRGAN (необязательно; на GPU быстро, на CPU медленно)
+# torch
+flask>=3.0
+
+# база данных PostgreSQL
+psycopg[binary]>=3.1
+# torch
+# diffusers
+# transformers
+# accelerate
+# sentencepiece

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+data/
+*.db
+*.db-shm
+*.db-wal
+models/*
+!models/.gitkeep
+.venv/
+venv/
+.vscode/
